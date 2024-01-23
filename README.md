@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @V0KEN
-- 👀 I’m interested in coding and creating meaningful, fun and highly engaging applications
-- 🌱 I’m currently learning Java, JavaSwing, JavaScript, HTML, CSS, React.
-- 💞️ I’m looking to collaborate on game design.
+- 👋 Hi, I’m @V0KEN, Software Engineer
+- 👀 I’m interested in coding and creating meaningful, fun and highly engaging applications.
+- 🌱 I’m currently learning Frontend Development skills: JavaScript, HTML, CSS and React.
+- 💞️ I’m looking to collaborate on meaningful, aesthetic and fun projects.
 - 📫 How to reach me: email: ken.vo5901@gmail.com
 
